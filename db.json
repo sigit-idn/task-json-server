@@ -3,7 +3,7 @@
 		{
 			"id": 1,
 			"title": "Chunk 1 Title lorem ipsum dolor sit amet",
-			"finishedAt": null,
+			"finishedAt": "hello",
 			"task": 1
 		},
 		{
