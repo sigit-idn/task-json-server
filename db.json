@@ -108,7 +108,7 @@
 			"title": "Task 2 Title",
 			"description": "Task 2 Description lorem ipsum dolor sit amet consectetur adipiscing elit",
 			"startedAt": "2022-11-02T08:00:00.000Z",
-			"deadline": "2022-11-28T00:00:00.000Z",
+			"deadline": "2022-11-03T10:00:00.000Z",
 
 			"chunks": [
 				{
@@ -122,6 +122,12 @@
 					"title": "Chunk 5 Title lorem ipsum dolor sit amet",
 					"finishedAt": null,
 					"task": 2
+				},
+				{
+					"id": 20,
+					"title": "Chunk 6 Title lorem ipsum dolor sit amet",
+					"finishedAt": null,
+					"task": 2
 				}
 			]
 		},
@@ -130,7 +136,7 @@
 			"title": "Task 3 Title",
 			"description": "Task 3 Description lorem ipsum dolor sit amet consectetur adipiscing elit",
 			"startedAt": "2022-11-02T08:00:00.000Z",
-			"deadline": "2022-11-30T00:00:00.000Z",
+			"deadline": "2022-11-5T00:00:00.000Z",
 
 			"chunks": [
 				{
