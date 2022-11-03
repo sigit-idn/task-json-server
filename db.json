@@ -136,7 +136,7 @@
 			"title": "Task 3 Title",
 			"description": "Task 3 Description lorem ipsum dolor sit amet consectetur adipiscing elit",
 			"startedAt": "2022-11-02T08:00:00.000Z",
-			"deadline": "2022-11-5T00:00:00.000Z",
+			"deadline": "2022-11-05T00:00:00.000Z",
 
 			"chunks": [
 				{
